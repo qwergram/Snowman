@@ -1,0 +1,12 @@
+Add-AppDevPackage.resources/
+Dependencies/
+Add-AppDevPackage.ps1
+*.appxsym
+*.appxbundle
+*.cer
+atom/
+__pycache__/
+*.png
+*.exe
+*.lnk
+App/
